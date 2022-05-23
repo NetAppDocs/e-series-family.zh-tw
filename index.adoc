@@ -1,0 +1,15 @@
+---
+layout: product-family 
+permalink: index.html 
+lead: The NetApp E-Series product family offers storage and application data management services for high-bandwidth applications that need simple, easy to manage, and fast block storage with enterprise-grade reliability. 
+summary: NetApp E系列產品提供儲存與應用程式資料管理服務、適用於需要簡單、易於管理且快速區塊儲存的高頻寬應用程式、以及企業級可靠性。 
+---
+= E系列文件
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+

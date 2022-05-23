@@ -1,0 +1,91 @@
+---
+permalink: intro-family.html 
+keywords: introduction, what E-Series is, e-series, SANtricity, CLI, system manager, unified manager 
+summary: NetApp E系列產品提供儲存與應用程式資料管理服務、適用於需要簡單、易於管理且快速區塊儲存的高頻寬應用程式、以及企業級可靠性。 
+---
+= E系列儲存系統簡介
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+NetApp E系列儲存產品提供彈性且具成本效益的雲端備份與還原功能、專為需要簡單易管理且具備企業級可靠性的快速區塊儲存設備的專屬高頻寬應用程式所設計。
+
+
+
+== E系列平台
+
+E系列儲存系統使用應用程式感知的資料管理工具、可處理2U或4U尺寸規格的多種磁碟機類型。您可以將儲存系統從多種介面類型連接至SAN、並連接至各種主機作業系統。
+
+E系列儲存系統包括下列平台機型。
+
+
+
+=== EF600與EF300
+
+專為需要最高效能的工作負載所設計、例如Big Data分析和資料庫。 https://www.netapp.com/pdf.html?item=/media/19339-DS-4082.pdf["閱讀EF系列產品型錄"^]。
+
+
+
+=== E5700
+
+專為高效能和資料密集的頻寬應用程式打造、具備企業級可靠性。 https://www.netapp.com/pdf.html?item=/media/7572-ds-3894.pdf["閱讀E5700產品型錄"^]。
+
+
+
+=== E2800
+
+專為需要混合式工作負載效能與可靠性的小型企業和遠端辦公室所最佳化。 https://www.netapp.com/pdf.html?item=/media/7573-ds-3805.pdf["閱讀E2800產品型錄"^]。
+
+
+
+== 軟件SANtricity
+
+支援系統管理程式和Unified Manager網路介面、可用來檢視、配置及管理網路中的儲存系統。SANtricity https://www.netapp.com/pdf.html?item=/media/7676-ds-3891.pdf["閱讀SANtricity 《軟件資料表》"^]。
+
+
+
+=== 系統管理程式SANtricity
+
+System Manager是內嵌在每個控制器上的網路型管理軟體。若要存取使用者介面、請將瀏覽器指向控制器的IP位址。設定精靈可協助您開始進行系統組態。
+
+* 直覺式工作流程精靈和內容相關的精靈、有助於簡化組態工作。
+* 此軟體建議採用組態的候選廠商、以善用硬體功能、例如高密度機箱上的抽屜遺失保護、以及智慧管理SSD的耗損壽命和效能。
+* 精密的效能監控功能可讓您從系統層級向下檢視個別磁碟機的資訊、或匯出效能資料以供進一步分析。
+* 管理SSD快取或資料快取等調校活動都在線上。當需要進行修復時SANtricity 、《支援還原大師》會提供逐步指示。
+
+
+
+
+=== 統一化管理程式SANtricity
+
+Unified Manager是網路型軟體、用於管理整個網域。從中央檢視中、您可以看到所有較新E系列和EF系列陣列的狀態、例如E2800、EF280、EF300、E5700、EF570、 和EF600。您也可以在選定的儲存陣列上執行批次作業。
+
+* 從單一視窗、您可以檢視狀態、將陣列組織成群組、更新SANtricity 多個陣列的BIOS OS、以及為SANtricity 每個陣列啟動隨裝即用的系統管理程式。
+* 您可以透過單一作業、快速將警示和其他設定設定到多個陣列。
+* 將統一化管理程式安裝在Linux或Windows管理伺服器上、並在瀏覽器中執行。SANtricity
+
+
+
+
+=== Web服務代理SANtricity
+
+Web服務Proxy是一款功能完整的RESTful API伺服器、可滿足協調與自動化需求、可管理數百個新舊E系列陣列。Proxy會分別安裝在Windows或Linux伺服器上。Web Services包含API文件、可讓您直接與REST API互動。
+
+
+
+== CLI
+
+命令列介面（CLI）是一種軟體應用程式、可用來設定及監控儲存陣列。
+
+使用CLI、您可以從作業系統提示字元執行命令、例如DOS C：提示字元、Linux作業系統路徑或Solaris作業系統路徑。
+
+
+
+== 以取得更多資訊
+
+* https://docs.netapp.com/us-en/e-series/index.html["E系列系統文件"^]
+* https://docs.netapp.com/us-en/e-series-santricity/index.html["軟體文件SANtricity"^]
+* https://docs.netapp.com/us-en/e-series-cli/index.html["CLI文件SANtricity"^]
+

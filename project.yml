@@ -1,0 +1,51 @@
+---
+settings:
+  name: E-Series Family
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  langs: zh-tw,us-en,ja-jp,zh-cn,ko-kr
+sidebar:
+  entries:
+  - title: E系列產品系列文件
+    url: "/index.html"
+product-family:
+  search: clouddocs-e-series_main-prod,clouddocs-e-series-santricity_main-prod,clouddocs-e-series-cli_main-prod
+  sidebarlinks:
+  - title: 所有文件
+    tags: tag_storage_management,tag_data_storage,tag_cli,tag_get_started,tag_SANtricity
+    class: active
+  - title: 開始使用
+    tags: tag_get_started
+  - title: 資料儲存
+    tags: tag_data_storage
+  - title: 儲存管理
+    tags: tag_storage_management, tag_SANtricity
+  tiles:
+  - title: 瞭解E系列產品
+    icon: "./media/groups_line-1.png"
+    url: intro-family.html
+    summary: 瞭解E系列儲存系統。
+    tags: all, tag_get_started
+  - title: E系列系統
+    icon: "./media/system_line.png"
+    url: https://docs.netapp.com/us-en/e-series/index.html
+    summary: 使用E系列儲存系統、以快速區塊儲存和企業級可靠性來支援您的應用程式工作負載。
+    tags: all, tag_data_storage
+  - title: 軟件SANtricity
+    icon: "./media/config_line.png"
+    url: https://docs.netapp.com/us-en/e-series-santricity/index.html
+    summary: 使用支援軟體、從網路介面配置及管理E系列儲存系統。SANtricity
+    tags: all, tag_storage_management, tag_SANtricity
+  - title: 命令列介面
+    icon: "./media/cli_line.png"
+    url: https://docs.netapp.com/us-en/e-series-cli/index.html
+    summary: 使用CLI從作業系統提示字元設定及監控E系列儲存系統。
+    tags: all, tag_storage_management, tag_SANtricity
+  - title: Web服務API
+    icon: "./media/api.png"
+    url: https://docs.netapp.com/us-en/e-series/web-services-proxy/index.html
+    summary: 使用RESTful API在新舊E系列儲存系統之間建置及自動化工作流程。
+    tags: all, tag_storage_management, tag_SANtricity
