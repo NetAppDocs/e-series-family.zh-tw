@@ -24,25 +24,33 @@ E系列儲存系統包括下列平台機型。
 
 === EF600與EF300
 
-專為需要最高效能的工作負載所設計、例如Big Data分析和資料庫。 https://www.netapp.com/pdf.html?item=/media/19339-DS-4082.pdf["閱讀EF系列產品型錄"^]。
+專為需要最高效能的工作負載所設計、例如Big Data分析和資料庫。
+
+https://www.netapp.com/pdf.html?item=/media/19339-DS-4082.pdf["閱讀EF系列產品型錄"^]。
 
 
 
 === E5700
 
-專為高效能和資料密集的頻寬應用程式打造、具備企業級可靠性。 https://www.netapp.com/pdf.html?item=/media/7572-ds-3894.pdf["閱讀E5700產品型錄"^]。
+專為高效能和資料密集的頻寬應用程式打造、具備企業級可靠性。
+
+https://www.netapp.com/pdf.html?item=/media/7572-ds-3894.pdf["閱讀E5700產品型錄"^]。
 
 
 
 === E2800
 
-專為需要混合式工作負載效能與可靠性的小型企業和遠端辦公室所最佳化。 https://www.netapp.com/pdf.html?item=/media/7573-ds-3805.pdf["閱讀E2800產品型錄"^]。
+專為需要混合式工作負載效能與可靠性的小型企業和遠端辦公室所最佳化。
+
+https://www.netapp.com/pdf.html?item=/media/7573-ds-3805.pdf["閱讀E2800產品型錄"^]。
 
 
 
 == 軟件SANtricity
 
-支援系統管理程式和Unified Manager網路介面、可用來檢視、配置及管理網路中的儲存系統。SANtricity https://www.netapp.com/pdf.html?item=/media/7676-ds-3891.pdf["閱讀SANtricity 《軟件資料表》"^]。
+支援系統管理程式和Unified Manager網路介面、可用來檢視、配置及管理網路中的儲存系統。SANtricity
+
+https://www.netapp.com/pdf.html?item=/media/7676-ds-3891.pdf["閱讀SANtricity 《軟件資料表》"^]。
 
 
 
@@ -56,6 +64,8 @@ System Manager是內嵌在每個控制器上的網路型管理軟體。若要存
 * 管理SSD快取或資料快取等調校活動都在線上。當需要進行修復時SANtricity 、《支援還原大師》會提供逐步指示。
 
 
+前往 https://docs.netapp.com/us-en/e-series-santricity/system-manager/index.html["系統管理程式文件網站SANtricity"]，您可以在其中找到有關如何規劃、設定、管理及疑難排解儲存陣列的資訊。
+
 
 
 === 統一化管理程式SANtricity
@@ -67,11 +77,15 @@ Unified Manager是網路型軟體、用於管理整個網域。從中央檢視�
 * 將統一化管理程式安裝在Linux或Windows管理伺服器上、並在瀏覽器中執行。SANtricity
 
 
+前往 https://docs.netapp.com/us-en/e-series-santricity/unified-manager/index.html["統一化管理程式文件網站SANtricity"]，您可在此學習如何在多個網路儲存陣列上執行儲存管理命令。
+
 
 
 === Web服務代理SANtricity
 
 Web服務Proxy是一款功能完整的RESTful API伺服器、可滿足協調與自動化需求、可管理數百個新舊E系列陣列。Proxy會分別安裝在Windows或Linux伺服器上。Web Services包含API文件、可讓您直接與REST API互動。
+
+存取 https://docs.netapp.com/us-en/e-series/web-services-proxy/index.html["Web服務Proxy文件"]。
 
 
 
@@ -80,6 +94,8 @@ Web服務Proxy是一款功能完整的RESTful API伺服器、可滿足協調與�
 命令列介面（CLI）是一種軟體應用程式、可用來設定及監控儲存陣列。
 
 使用CLI、您可以從作業系統提示字元執行命令、例如DOS C：提示字元、Linux作業系統路徑或Solaris作業系統路徑。
+
+前往 https://docs.netapp.com/us-en/e-series-cli/index.html["CLI文件網站SANtricity"]，您可在此學習如何使用CLI命令來設定及監控儲存陣列。
 
 
 

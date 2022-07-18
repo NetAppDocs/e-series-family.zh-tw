@@ -25,16 +25,12 @@
   <block id="474ecc1d12d7c4faf62dd1c969e4f160" category="paragraph">E系列儲存系統包括下列平台機型。</block>
   <block id="142d49f5d8166cda23176c9355cb6387" category="section-title">EF600與EF300</block>
   <block id="79f8f1fbe8dcba48c51b15f621e49c92" category="inline-link">閱讀EF系列產品型錄</block>
-  <block id="824daac554592cadf3b249894d67cff8" category="paragraph">專為需要最高效能的工作負載所設計、例如Big Data分析和資料庫。<block ref="71dc60d79dd40763b18f513ded3d99e8" category="inline-link-rx"></block>。</block>
   <block id="176e516e8cae45764073b4a9b3674666" category="section-title">E5700</block>
   <block id="e8b9daf8d8b00f9b9b2515d42827f16a" category="inline-link">閱讀E5700產品型錄</block>
-  <block id="b41245e938c0eb6a57785a746765fa7c" category="paragraph">專為高效能和資料密集的頻寬應用程式打造、具備企業級可靠性。<block ref="72e93c931f93e0c8c8db687b40f1ace1" category="inline-link-rx"></block>。</block>
   <block id="36ea2743576b4967eefec734fdf225a7" category="section-title">E2800</block>
   <block id="6f17c1b5648204e27c5232cfad266c55" category="inline-link">閱讀E2800產品型錄</block>
-  <block id="e8f23798dedf5fb04422ba0f033696c5" category="paragraph">專為需要混合式工作負載效能與可靠性的小型企業和遠端辦公室所最佳化。<block ref="26480bd821c09889b2e5cbaaf48e5dc8" category="inline-link-rx"></block>。</block>
   <block id="eecdfe99dab1ba77ed2b7b1d9b86256b" category="section-title">軟件SANtricity</block>
   <block id="c85501584627f2cc9e6b757a852d4e63" category="inline-link">閱讀SANtricity 《軟件資料表》</block>
-  <block id="84bc0a1513121ee956ca4ce10ead9936" category="paragraph">支援系統管理程式和Unified Manager網路介面、可用來檢視、配置及管理網路中的儲存系統。SANtricity<block ref="c400d3a8092cc6a075073949ecf7a212" category="inline-link-rx"></block>。</block>
   <block id="0472921e1ddce2239a2bd92ea276d1c2" category="section-title">系統管理程式SANtricity</block>
   <block id="155ba2a638583b348ccb0b7fc7108688" category="paragraph">System Manager是內嵌在每個控制器上的網路型管理軟體。若要存取使用者介面、請將瀏覽器指向控制器的IP位址。設定精靈可協助您開始進行系統組態。</block>
   <block id="6f61b0c447b71c45c147e05cbfc87178" category="list-text">直覺式工作流程精靈和內容相關的精靈、有助於簡化組態工作。</block>
@@ -74,4 +70,20 @@
   <block id="19a0a15a7c4d3a3bc51418cbc9a3b2ec" category="sidebar">使用CLI從作業系統提示字元設定及監控E系列儲存系統。</block>
   <block id="7be46423c2b30b6cfa401cb45a35ad2b" category="sidebar">Web服務API</block>
   <block id="c47070155f88602aa042524cd2cc4603" category="sidebar">使用RESTful API在新舊E系列儲存系統之間建置及自動化工作流程。</block>
+  <block id="d4dfeb323e446c2b90b20dc9b54c4405" category="paragraph">專為需要最高效能的工作負載所設計、例如Big Data分析和資料庫。</block>
+  <block id="1332a08a067b95d420f0d24ab5e89e06" category="paragraph"><block ref="446fc659dbe52df02322454be4d2a16c" category="inline-link-rx"></block>。</block>
+  <block id="2776610d741332584403d7c72fe2e643" category="paragraph">專為高效能和資料密集的頻寬應用程式打造、具備企業級可靠性。</block>
+  <block id="7db60f58ccdd2a63d8b656bf8b24c250" category="paragraph"><block ref="1923aee696a50b6ab348b91b901a3f8d" category="inline-link-rx"></block>。</block>
+  <block id="f2c73fc6464033fbbc41882f301e648a" category="paragraph">專為需要混合式工作負載效能與可靠性的小型企業和遠端辦公室所最佳化。</block>
+  <block id="ce92eed923458edfab9b8e6e3f4513e4" category="paragraph"><block ref="9d9c54284537f20340634e10295f9b82" category="inline-link-rx"></block>。</block>
+  <block id="d73451354372f6ba711b69ac3d99036f" category="paragraph">支援系統管理程式和Unified Manager網路介面、可用來檢視、配置及管理網路中的儲存系統。SANtricity</block>
+  <block id="c91ec79ba7eb6afe3bee8d05dd5b4c6b" category="paragraph"><block ref="e9ac56e88b1e1b1148ff7abd9fb1f524" category="inline-link-rx"></block>。</block>
+  <block id="6bd2c03bfc3d63944f2817a37088263b" category="inline-link">系統管理程式文件網站SANtricity</block>
+  <block id="5afd900f0f71dd604d4874e9a5ea949c" category="paragraph">前往<block ref="d3e10be75726740b542aeca9462b931c" category="inline-link-rx"></block>，您可以在其中找到有關如何規劃、設定、管理及疑難排解儲存陣列的資訊。</block>
+  <block id="3673719ad0b24cfc30109f551173e76e" category="inline-link">統一化管理程式文件網站SANtricity</block>
+  <block id="a26e5cf035de8141c2fb3927d8b2d507" category="paragraph">前往<block ref="b07fdda9632566425eb1def704327131" category="inline-link-rx"></block>，您可在此學習如何在多個網路儲存陣列上執行儲存管理命令。</block>
+  <block id="a06cfdf8837b8871b5ecb26355f8ab4c" category="inline-link">Web服務Proxy文件</block>
+  <block id="ffac070967eb40fdceb147fa5be92747" category="paragraph">存取<block ref="3543222ed8371c51755d66d67eb39e6e" category="inline-link-rx"></block>。</block>
+  <block id="95a096ebb928185f9e6ab6436acd0f72" category="inline-link">CLI文件網站SANtricity</block>
+  <block id="218f987c65a84423095d258027200ebd" category="paragraph">前往<block ref="3ada143f2e378ec106c3939a26190114" category="inline-link-rx"></block>，您可在此學習如何使用CLI命令來設定及監控儲存陣列。</block>
 </blocks>
