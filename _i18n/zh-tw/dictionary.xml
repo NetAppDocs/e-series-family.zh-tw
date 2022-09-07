@@ -56,11 +56,9 @@
   <block id="08b37af774e1d6729f763c26e7c1384a" category="list-text"><block ref="08b37af774e1d6729f763c26e7c1384a" category="inline-link-rx"></block></block>
   <block id="5f93f381aa8df330451fa5b834f54def" category="doc">E系列文件</block>
   <block id="294d136d5efcf1648eafe92db6c5cf9e" category="sidebar">E系列產品系列文件</block>
-  <block id="3a1266b54b8b88dbb50662ab4166c05f" category="sidebar">所有文件</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">開始使用</block>
   <block id="dc21b082b0947a93d387b8c7e8f89ee5" category="sidebar">資料儲存</block>
   <block id="bfd15aa26ba0ced782240c4a8b7e517e" category="sidebar">儲存管理</block>
-  <block id="8c191741b464ec7257da6dda2ea38d91" category="sidebar">瞭解E系列產品</block>
   <block id="447139bc81b52e1a424305db2e2a4444" category="sidebar">瞭解E系列儲存系統。</block>
   <block id="69f6cbec6c91e989cb5c058849d7ff20" category="sidebar">E系列系統</block>
   <block id="4fa72b310e1ed4cfa3e25e3a7968eedb" category="sidebar">使用E系列儲存系統、以快速區塊儲存和企業級可靠性來支援您的應用程式工作負載。</block>
@@ -86,4 +84,17 @@
   <block id="ffac070967eb40fdceb147fa5be92747" category="paragraph">存取<block ref="3543222ed8371c51755d66d67eb39e6e" category="inline-link-rx"></block>。</block>
   <block id="95a096ebb928185f9e6ab6436acd0f72" category="inline-link">CLI文件網站SANtricity</block>
   <block id="218f987c65a84423095d258027200ebd" category="paragraph">前往<block ref="3ada143f2e378ec106c3939a26190114" category="inline-link-rx"></block>，您可在此學習如何使用CLI命令來設定及監控儲存陣列。</block>
+  <block id="a62b5237545be2712622dfe2693d9cf8" category="inline-link">深入瞭解EF600機型</block>
+  <block id="0badf69e773475d5df1d1a6da344897b" category="paragraph"><block ref="430ed1f97315b5e19046567f95bc4063" category="inline-link-rx"></block>。</block>
+  <block id="fd47aa192ad4e509e947b72c7a0da6ad" category="inline-link">深入瞭解EF300機型</block>
+  <block id="a8a4774685beafe1884ea3a583f9f72b" category="paragraph"><block ref="e744468941a9156827056370f1855636" category="inline-link-rx"></block>。</block>
+  <block id="fa3badeb587d8130e4e6828adf5e3ff7" category="inline-link">深入瞭解E5700機型</block>
+  <block id="24e314acaed1befaf882f567d75209aa" category="paragraph"><block ref="5cd9f5c03b3c2d6846f64a7c04036d45" category="inline-link-rx"></block>。</block>
+  <block id="52b8542f1c38dc282f15733db9ef2648" category="inline-link">深入瞭解E2800機型</block>
+  <block id="d2d722049178be8cd1890b932c825ed5" category="paragraph"><block ref="3e0982541f18ddacaca57ec40835ab89" category="inline-link-rx"></block>。</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
+  <block id="2a9dbfa4b74c53d7304fc8b79a1874d3" category="sidebar">解決方案</block>
+  <block id="e4136d596bf67f3afb7cfd2326f4b522" category="sidebar">深入瞭解E系列</block>
+  <block id="ae3764f1afaeea3c3503d944dce8f0b9" category="sidebar">NetApp的BeeGFS</block>
+  <block id="cd03a6967293f50ada66e4749041088c" category="sidebar">在NetApp上使用BeeGFS來打造高可用度AI和HPC儲存基礎架構、將BeeGFS平行檔案系統與NetApp EF600儲存系統結合在一起。</block>
 </blocks>

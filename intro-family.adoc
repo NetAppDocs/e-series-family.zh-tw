@@ -26,6 +26,10 @@ E系列儲存系統包括下列平台機型。
 
 專為需要最高效能的工作負載所設計、例如Big Data分析和資料庫。
 
+https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.html#ef600-models["深入瞭解EF600機型"]。
+
+https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.html#ef300-models["深入瞭解EF300機型"]。
+
 https://www.netapp.com/pdf.html?item=/media/19339-DS-4082.pdf["閱讀EF系列產品型錄"^]。
 
 
@@ -34,6 +38,8 @@ https://www.netapp.com/pdf.html?item=/media/19339-DS-4082.pdf["閱讀EF系列產
 
 專為高效能和資料密集的頻寬應用程式打造、具備企業級可靠性。
 
+https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.html#e5700-models["深入瞭解E5700機型"]。
+
 https://www.netapp.com/pdf.html?item=/media/7572-ds-3894.pdf["閱讀E5700產品型錄"^]。
 
 
@@ -41,6 +47,8 @@ https://www.netapp.com/pdf.html?item=/media/7572-ds-3894.pdf["閱讀E5700產品�
 === E2800
 
 專為需要混合式工作負載效能與可靠性的小型企業和遠端辦公室所最佳化。
+
+https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.html#e2800-models["深入瞭解E2800機型"]。
 
 https://www.netapp.com/pdf.html?item=/media/7573-ds-3805.pdf["閱讀E2800產品型錄"^]。
 
