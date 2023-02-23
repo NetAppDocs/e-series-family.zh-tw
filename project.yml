@@ -1,6 +1,7 @@
 ---
 settings:
   name: E-Series Family
+  search: e-series,e-series-santricity,e-series-cli
   internal:
     pdf_enabled: false
   prod:
@@ -12,9 +13,8 @@ sidebar:
   - title: E系列產品系列文件
     url: "/index.html"
 product-family:
-  search: clouddocs-e-series_main-prod,clouddocs-e-series-santricity_main-prod,clouddocs-e-series-cli_main-prod
   sidebarlinks:
-  - title: 全部
+  - title: 所有文件
     tags: tag_storage_management,tag_data_storage,tag_cli,tag_get_started,tag_SANtricity,
       tag_solution
     class: active
@@ -52,8 +52,8 @@ product-family:
     url: https://docs.netapp.com/us-en/e-series/web-services-proxy/index.html
     summary: 使用RESTful API在新舊E系列儲存系統之間建置及自動化工作流程。
     tags: all, tag_storage_management, tag_SANtricity
-  - title: NetApp的BeeGFS
-    icon: "./media/BeeGFS-ESeries.png"
-    url: https://docs.netapp.com/us-en/beegfs/index.html
-    summary: 在NetApp上使用BeeGFS來打造高可用度AI和HPC儲存基礎架構、將BeeGFS平行檔案系統與NetApp EF600儲存系統結合在一起。
+  - title: 採用E系列儲存設備的NetApp BeeGFS
+    icon: "./media/api.png"
+    url: https://review.docs.netapp.com/us-en/beegfs_admin-jgallagher/index.html
+    summary: 在NetApp上使用BeeGFS來建置及部署高可用度的基礎架構、將BeeGFS平行檔案系統與NetApp EF600儲存系統結合在一起。
     tags: all, tag_solution

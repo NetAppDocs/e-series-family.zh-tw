@@ -92,9 +92,9 @@
   <block id="24e314acaed1befaf882f567d75209aa" category="paragraph"><block ref="5cd9f5c03b3c2d6846f64a7c04036d45" category="inline-link-rx"></block>。</block>
   <block id="52b8542f1c38dc282f15733db9ef2648" category="inline-link">深入瞭解E2800機型</block>
   <block id="d2d722049178be8cd1890b932c825ed5" category="paragraph"><block ref="3e0982541f18ddacaca57ec40835ab89" category="inline-link-rx"></block>。</block>
-  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
   <block id="2a9dbfa4b74c53d7304fc8b79a1874d3" category="sidebar">解決方案</block>
   <block id="e4136d596bf67f3afb7cfd2326f4b522" category="sidebar">深入瞭解E系列</block>
-  <block id="ae3764f1afaeea3c3503d944dce8f0b9" category="sidebar">NetApp的BeeGFS</block>
-  <block id="cd03a6967293f50ada66e4749041088c" category="sidebar">在NetApp上使用BeeGFS來打造高可用度AI和HPC儲存基礎架構、將BeeGFS平行檔案系統與NetApp EF600儲存系統結合在一起。</block>
+  <block id="3a1266b54b8b88dbb50662ab4166c05f" category="sidebar">所有文件</block>
+  <block id="28e8b3e83af233fe7085ba954fc6fd36" category="sidebar">採用E系列儲存設備的NetApp BeeGFS</block>
+  <block id="c6ed86424e776eb55d39d911ea6a9183" category="sidebar">在NetApp上使用BeeGFS來建置及部署高可用度的基礎架構、將BeeGFS平行檔案系統與NetApp EF600儲存系統結合在一起。</block>
 </blocks>
