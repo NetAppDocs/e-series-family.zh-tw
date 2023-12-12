@@ -1,15 +1,16 @@
 ---
 permalink: intro-family.html 
-keywords: introduction, what E-Series is, e-series, SANtricity, CLI, system manager, unified manager 
-summary: NetApp E系列產品提供儲存與應用程式資料管理服務、適用於需要簡單、易於管理且快速區塊儲存的高頻寬應用程式、以及企業級可靠性。 
+keywords: e-series 
+summary: NetApp E系列儲存產品提供彈性且具成本效益的雲端備份與還原功能、專為需要簡單易管理且具備企業級可靠性的快速區塊儲存設備的專屬高頻寬應用程式所設計。 
 ---
-= E系列儲存系統簡介
+= 瞭解 E 系列產品系列
 :hardbreaks:
 :allow-uri-read: 
 :icons: font
 :imagesdir: ./media/
 
 
+[role="lead"]
 NetApp E系列儲存產品提供彈性且具成本效益的雲端備份與還原功能、專為需要簡單易管理且具備企業級可靠性的快速區塊儲存設備的專屬高頻寬應用程式所設計。
 
 
