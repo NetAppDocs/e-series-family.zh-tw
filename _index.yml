@@ -1,0 +1,50 @@
+---
+product-family:
+  title: E系列文件
+  keywords: introduction, what E-Series is, e-series, SANtricity, CLI, system manager,
+    unified manager
+  lead: NetApp E系列產品提供儲存與應用程式資料管理服務、適用於需要簡單、易於管理且快速區塊儲存的高頻寬應用程式、以及企業級可靠性。
+  summary: NetApp E系列產品提供儲存與應用程式資料管理服務、適用於需要簡單、易於管理且快速區塊儲存的高頻寬應用程式、以及企業級可靠性。
+  sidebarlinks:
+  - title: 全部
+    tags: tag-all
+    class: active
+  - title: 開始使用
+    tags: tag-get-started
+  - title: 資料儲存
+    tags: tag-data-storage
+  - title: 儲存管理
+    tags: tag-storage-management
+  - title: 解決方案
+    tags: tag-solution
+  tiles:
+  - title: 深入瞭解E系列
+    icon: "./media/groups_line-1.png"
+    url: intro-family.html
+    summary: 瞭解E系列儲存系統。
+    tags: tag-all,tag-get-started,tag-data-storage,tag-storage-management,tag-solution
+  - title: E系列系統
+    icon: "./media/system_line.png"
+    url: "../e-series/index.html"
+    summary: 使用E系列儲存系統、以快速區塊儲存和企業級可靠性來支援您的應用程式工作負載。
+    tags: tag-all,tag-data-storage
+  - title: 軟件SANtricity
+    icon: "./media/config_line.png"
+    url: "../e-series-santricity/index.html"
+    summary: 使用支援軟體、從網路介面配置及管理E系列儲存系統。SANtricity
+    tags: tag-all,tag-storage-management
+  - title: 命令列介面
+    icon: "./media/cli_line.png"
+    url: "../e-series-cli/index.html"
+    summary: 使用CLI從作業系統提示字元設定及監控E系列儲存系統。
+    tags: tag-all,tag-storage-management
+  - title: Web服務API
+    icon: "./media/api.png"
+    url: "../e-series/web-services-proxy/index.html"
+    summary: 使用RESTful API在新舊E系列儲存系統之間建置及自動化工作流程。
+    tags: tag-all,tag-storage-management
+  - title: 採用E系列儲存設備的NetApp BeeGFS
+    icon: "./media/api.png"
+    url: "../beegfs/index.html"
+    summary: 在NetApp上使用BeeGFS來建置及部署高可用度的基礎架構、將BeeGFS平行檔案系統與NetApp EF600儲存系統結合在一起。
+    tags: tag-all,tag-solution
