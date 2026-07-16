@@ -15,6 +15,7 @@ NetApp E系列儲存產品提供彈性且具成本效益的雲端備份與還原
 
 
 
+[[e-series-platforms]]
 == E系列平台
 
 E系列儲存系統使用應用程式感知的資料管理工具、可處理2U或4U尺寸規格的多種磁碟機類型。您可以將儲存系統從多種介面類型連接至SAN、並連接至各種主機作業系統。
@@ -23,6 +24,7 @@ E系列儲存系統包括下列平台機型。
 
 
 
+[[e4000]]
 === E4000
 
 專為分析，視訊監控，高效能運算（ HPC ）和備份 / 恢復等混合式工作負載而打造，可最佳化效能。
@@ -33,6 +35,7 @@ https://www.netapp.com/pdf.html?item=/media/116571-ds-4309-hybrid-flash-arrays-e
 
 
 
+[[ef600-and-ef300]]
 === EF600與EF300
 
 專為需要最高效能的工作負載所設計、例如Big Data分析和資料庫。
@@ -41,10 +44,11 @@ https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.ht
 
 https://docs.netapp.com/us-en/e-series/getting-started/learn-hardware-concept.html#ef300-models["深入瞭解EF300機型"]。
 
-https://www.netapp.com/pdf.html?item=/media/19339-DS-4082.pdf["閱讀EF系列產品型錄"^]。
+https://www.netapp.com/pdf.html?item=/media/19339-ds-4082.pdf["閱讀EF系列產品型錄"^]。
 
 
 
+[[e5700]]
 === E5700
 
 專為高效能和資料密集的頻寬應用程式打造、具備企業級可靠性。
@@ -55,6 +59,7 @@ https://www.netapp.com/pdf.html?item=/media/7572-ds-3894.pdf["閱讀E5700產品�
 
 
 
+[[e2800]]
 === E2800
 
 專為需要混合式工作負載效能與可靠性的小型企業和遠端辦公室所最佳化。
@@ -65,6 +70,7 @@ https://www.netapp.com/pdf.html?item=/media/7573-ds-3805.pdf["閱讀E2800產品�
 
 
 
+[[santricity-software]]
 == 軟件SANtricity
 
 支援系統管理程式和Unified Manager網路介面、可用來檢視、配置及管理網路中的儲存系統。SANtricity
@@ -73,6 +79,7 @@ https://www.netapp.com/pdf.html?item=/media/7676-ds-3891.pdf["閱讀SANtricity �
 
 
 
+[[santricity-system-manager]]
 === 系統管理程式SANtricity
 
 System Manager是內嵌在每個控制器上的網路型管理軟體。若要存取使用者介面、請將瀏覽器指向控制器的IP位址。設定精靈可協助您開始進行系統組態。
@@ -87,6 +94,7 @@ System Manager是內嵌在每個控制器上的網路型管理軟體。若要存
 
 
 
+[[santricity-unified-manager]]
 === 統一化管理程式SANtricity
 
 Unified Manager是網路型軟體、用於管理整個網域。從中央檢視中、您可以看到所有較新E系列和EF系列陣列的狀態、例如E2800、EF280、EF300、E5700、EF570、 和EF600。您也可以在選定的儲存陣列上執行批次作業。
@@ -100,6 +108,7 @@ Unified Manager是網路型軟體、用於管理整個網域。從中央檢視�
 
 
 
+[[santricity-web-services-proxy]]
 === Web服務代理SANtricity
 
 Web服務Proxy是一款功能完整的RESTful API伺服器、可滿足協調與自動化需求、可管理數百個新舊E系列陣列。Proxy會分別安裝在Windows或Linux伺服器上。Web Services包含API文件、可讓您直接與REST API互動。
@@ -108,6 +117,7 @@ Web服務Proxy是一款功能完整的RESTful API伺服器、可滿足協調與�
 
 
 
+[[cli]]
 == CLI
 
 命令列介面（CLI）是一種軟體應用程式、可用來設定及監控儲存陣列。
@@ -118,6 +128,7 @@ Web服務Proxy是一款功能完整的RESTful API伺服器、可滿足協調與�
 
 
 
+[[for-more-information]]
 == 以取得更多資訊
 
 * https://docs.netapp.com/us-en/e-series/index.html["E系列系統文件"^]

@@ -64,7 +64,6 @@
   <block id="7be46423c2b30b6cfa401cb45a35ad2b" category="sidebar">Web服務API</block>
   <block id="c47070155f88602aa042524cd2cc4603" category="sidebar">使用RESTful API在新舊E系列儲存系統之間建置及自動化工作流程。</block>
   <block id="d4dfeb323e446c2b90b20dc9b54c4405" category="paragraph">專為需要最高效能的工作負載所設計、例如Big Data分析和資料庫。</block>
-  <block id="1332a08a067b95d420f0d24ab5e89e06" category="paragraph"><block ref="446fc659dbe52df02322454be4d2a16c" category="inline-link-rx"></block>。</block>
   <block id="2776610d741332584403d7c72fe2e643" category="paragraph">專為高效能和資料密集的頻寬應用程式打造、具備企業級可靠性。</block>
   <block id="7db60f58ccdd2a63d8b656bf8b24c250" category="paragraph"><block ref="1923aee696a50b6ab348b91b901a3f8d" category="inline-link-rx"></block>。</block>
   <block id="f2c73fc6464033fbbc41882f301e648a" category="paragraph">專為需要混合式工作負載效能與可靠性的小型企業和遠端辦公室所最佳化。</block>
@@ -107,4 +106,5 @@
   <block id="dad10ed4eb5e6725a440492844234f9e" category="paragraph"><block ref="60e84386b57028b7db67ae48e7a7265e" category="inline-link-rx"></block>。</block>
   <block id="d696eb7cc7c085860c6470600fcae988" category="inline-link">閱讀E4000產品型錄</block>
   <block id="57cc76780bfa9c93468f080b877fc65b" category="paragraph"><block ref="b89ee95d84bff0c0eb605a0d520b1934" category="inline-link-rx"></block>。</block>
+  <block id="7ea5b3d26ad1848cda1d8a40b9bf4ca8" category="paragraph"><block ref="8920db8ec7a24dd4a096be51daa88b36" category="inline-link-rx"></block>。</block>
 </blocks>
